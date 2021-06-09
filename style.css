@@ -1,0 +1,12 @@
+h1 {
+  float: left;
+  width: 50%;
+}
+
+body {
+  background-color: teal;
+}
+
+.input {
+  width: 40%;
+}
